@@ -28,3 +28,7 @@ void input () { //procedure input
     }
 }
 
+void insertionsort() { // procedure insertion sort
+    int temp;
+    int j;
+}
