@@ -69,3 +69,4 @@ int main() {
     system("pause");  // Menahan layar console agar tidak langsung tertutup
     return 0;
 }
+ 
